@@ -21,4 +21,4 @@ python iStorm.py (url)
 (do it in the folder)
 
 for example: python iStorm.py http://luthi.co.il/
-(don't do them, they did nothing wrong to you :flushed:
+(don't do them, they did nothing wrong to you :flushed:)
