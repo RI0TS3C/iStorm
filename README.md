@@ -1,6 +1,5 @@
 # iStorm
-iStorm DDoS Tool
-Used to DDoS a HTTP site(cannot be used to DDoS a home connection)
+iStorm DDoS Tool - Used to DDoS a HTTP site(cannot be used to DDoS a home connection)
 
 WARNING: THIS IS STRICTLY UNDER EDUCATIONAL PURPOSES AND TESTING.
 DO NOT TRY THIS AT ANYONE WITHOUT THEIR PERMISSION.
