@@ -9,8 +9,7 @@ To install iStorm, you require:
 ```python, normal(not python3)```
 
 ```git clone https://github.com/RI0TS3C/iStorm```
-Proceed into the iStorm folder:
-You can run ```python iStorm.py``` for more details.
+Proceed into the iStorm folder - You can run ```python iStorm.py``` for more details.
 
 
 # Usage
